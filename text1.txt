@@ -1,5 +1,0 @@
-hello from text1.
-addition.
-adition2
-hello from master.
-hello from windows.
