@@ -1,7 +1,1 @@
 hello from text1.
-addition.
-adition2
-hello from master.
-hello from windows.
-hello from 0904 to test eg.
-
